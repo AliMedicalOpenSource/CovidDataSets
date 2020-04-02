@@ -1,156 +1,178 @@
 [
   {
-    "Travel-Related": "Municipality of Anchorage",
-    "Non-Travel": "",
-    "Close Contact": 24,
-    "Under Investigation": "",
-    "Total": 6
+    "jurisdiction": "Municipality of Anchorage",
+    "Travel-Related": 24,
+    "Non-Travel": 6,
+    "CloseContact": 13,
+    "UnderInvestigation": 24,
+    "Total": 67
   },
   {
-    "Travel-Related": "Anchorage (including JBER)",
-    "Non-Travel": "",
-    "Close Contact": 21,
-    "Under Investigation": "",
-    "Total": 5
+    "jurisdiction": "Anchorage (including JBER)",
+    "Travel-Related": 21,
+    "Non-Travel": 5,
+    "CloseContact": 12,
+    "UnderInvestigation": 21,
+    "Total": 59
   },
   {
-    "Travel-Related": "Eagle River/Chugiak",
-    "Non-Travel": "",
-    "Close Contact": 2,
-    "Under Investigation": "",
+    "jurisdiction": "Eagle River/Chugiak",
+    "Travel-Related": 2,
+    "Non-Travel": 1,
+    "CloseContact": 1,
+    "UnderInvestigation": 3,
+    "Total": 7
+  },
+  {
+    "jurisdiction": "Girdwood",
+    "Travel-Related": 1,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 0,
     "Total": 1
   },
   {
-    "Travel-Related": "Girdwood",
-    "Non-Travel": "",
-    "Close Contact": 1,
-    "Under Investigation": "",
-    "Total": 0
+    "jurisdiction": "Gulf Coast",
+    "Travel-Related": 4,
+    "Non-Travel": 0,
+    "CloseContact": 2,
+    "UnderInvestigation": 2,
+    "Total": 8
   },
   {
-    "Travel-Related": "Gulf Coast",
-    "Non-Travel": "",
-    "Close Contact": 4,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Homer",
-    "Non-Travel": "",
-    "Close Contact": 1,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Kenai",
-    "Non-Travel": "",
-    "Close Contact": 1,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Seward",
-    "Non-Travel": "",
-    "Close Contact": 1,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Soldotna",
-    "Non-Travel": "",
-    "Close Contact": 1,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Sterling",
-    "Non-Travel": "",
-    "Close Contact": 0,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Interior",
-    "Non-Travel": "",
-    "Close Contact": 7,
-    "Under Investigation": "",
-    "Total": 3
-  },
-  {
-    "Travel-Related": "Fairbanks",
-    "Non-Travel": "",
-    "Close Contact": 4,
-    "Under Investigation": "",
-    "Total": 3
-  },
-  {
-    "Travel-Related": "North Pole",
-    "Non-Travel": "",
-    "Close Contact": 3,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Mat-Su",
-    "Non-Travel": "",
-    "Close Contact": 2,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Palmer",
-    "Non-Travel": "",
-    "Close Contact": 2,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Wasilla",
-    "Non-Travel": "",
-    "Close Contact": 0,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Northern",
-    "Non-Travel": "",
-    "Close Contact": 0,
-    "Under Investigation": "",
-    "Total": 0
-  },
-  {
-    "Travel-Related": "Southeast",
-    "Non-Travel": "",
-    "Close Contact": 3,
-    "Under Investigation": "",
+    "jurisdiction": "Homer",
+    "Travel-Related": 1,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 1,
     "Total": 2
   },
   {
-    "Travel-Related": "Juneau",
-    "Non-Travel": "",
-    "Close Contact": 1,
-    "Under Investigation": "",
+    "jurisdiction": "Kenai",
+    "Travel-Related": 1,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 0,
     "Total": 1
   },
   {
-    "Travel-Related": "Ketchikan",
-    "Non-Travel": "",
-    "Close Contact": 2,
-    "Under Investigation": "",
+    "jurisdiction": "Seward",
+    "Travel-Related": 1,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 0,
     "Total": 1
   },
   {
-    "Travel-Related": "Southwest",
-    "Non-Travel": "",
-    "Close Contact": 0,
-    "Under Investigation": "",
+    "jurisdiction": "Soldotna",
+    "Travel-Related": 1,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 1,
+    "Total": 2
+  },
+  {
+    "jurisdiction": "Sterling",
+    "Travel-Related": 0,
+    "Non-Travel": 0,
+    "CloseContact": 2,
+    "UnderInvestigation": 0,
+    "Total": 2
+  },
+  {
+    "jurisdiction": "Interior",
+    "Travel-Related": 7,
+    "Non-Travel": 3,
+    "CloseContact": 18,
+    "UnderInvestigation": 12,
+    "Total": 40
+  },
+  {
+    "jurisdiction": "Fairbanks",
+    "Travel-Related": 4,
+    "Non-Travel": 3,
+    "CloseContact": 12,
+    "UnderInvestigation": 11,
+    "Total": 30
+  },
+  {
+    "jurisdiction": "NorthPole",
+    "Travel-Related": 3,
+    "Non-Travel": 0,
+    "CloseContact": 6,
+    "UnderInvestigation": 1,
+    "Total": 10
+  },
+  {
+    "jurisdiction": "Mat-Su",
+    "Travel-Related": 2,
+    "Non-Travel": 0,
+    "CloseContact": 1,
+    "UnderInvestigation": 1,
+    "Total": 4
+  },
+  {
+    "jurisdiction": "Palmer",
+    "Travel-Related": 2,
+    "Non-Travel": 0,
+    "CloseContact": 1,
+    "UnderInvestigation": 0,
+    "Total": 3
+  },
+  {
+    "jurisdiction": "Wasilla",
+    "Travel-Related": 0,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 1,
+    "Total": 1
+  },
+  {
+    "jurisdiction": "Northern",
+    "Travel-Related": 0,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 0,
     "Total": 0
   },
   {
-    "Travel-Related": "TOTAL",
-    "Non-Travel": "",
-    "Close Contact": 40,
-    "Under Investigation": "",
-    "Total": 11
+    "jurisdiction": "Southeast",
+    "Travel-Related": 3,
+    "Non-Travel": 2,
+    "CloseContact": 16,
+    "UnderInvestigation": 3,
+    "Total": 24
+  },
+  {
+    "jurisdiction": "Juneau",
+    "Travel-Related": 1,
+    "Non-Travel": 1,
+    "CloseContact": 5,
+    "UnderInvestigation": 3,
+    "Total": 10
+  },
+  {
+    "jurisdiction": "Ketchikan",
+    "Travel-Related": 2,
+    "Non-Travel": 1,
+    "CloseContact": 11,
+    "UnderInvestigation": 0,
+    "Total": 14
+  },
+  {
+    "jurisdiction": "Southwest",
+    "Travel-Related": 0,
+    "Non-Travel": 0,
+    "CloseContact": 0,
+    "UnderInvestigation": 0,
+    "Total": 0
+  },
+  {
+    "jurisdiction": "TOTAL",
+    "Travel-Related": 40,
+    "Non-Travel": 11,
+    "CloseContact": 50,
+    "UnderInvestigation": 42,
+    "Total": 143
   }
 ]
