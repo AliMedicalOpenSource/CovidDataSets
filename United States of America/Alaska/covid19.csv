@@ -1,0 +1,158 @@
+ReportDate,OnsetDate,Sex,AgeGroup,State,StateFIPS,County,CountyFIPS,Region,RegionCode,Hospitalized,Deceased,Acquisition,FID
+2020-03-18T12:00:00.000Z,2020-03-15T12:00:00.000Z,Female,20-29,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,,,Travel,1
+2020-03-17T12:00:00.000Z,2020-03-12T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,2
+2020-03-17T12:00:00.000Z,2020-03-15T12:00:00.000Z,Female,40-49,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Travel,3
+2020-03-19T12:00:00.000Z,2020-03-14T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,4
+2020-03-20T12:00:00.000Z,2020-03-15T12:00:00.000Z,Female,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,,Unknown,5
+2020-03-21T12:00:00.000Z,2020-03-16T12:00:00.000Z,Female,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,N,Local,6
+2020-03-21T12:00:00.000Z,2020-03-18T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Local,7
+2020-03-19T12:00:00.000Z,2020-03-14T12:00:00.000Z,Female,10-19,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Local,8
+2020-03-21T12:00:00.000Z,2020-03-14T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,9
+2020-03-18T12:00:00.000Z,2020-03-17T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Travel,10
+2020-03-21T12:00:00.000Z,2020-03-15T12:00:00.000Z,Female,50-59,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,,,Local,11
+2020-03-22T12:00:00.000Z,2020-03-19T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,12
+2020-03-22T12:00:00.000Z,2020-03-19T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,13
+2020-03-22T12:00:00.000Z,2020-03-11T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,14
+2020-03-22T12:00:00.000Z,2020-03-17T12:00:00.000Z,Female,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Unknown,15
+2020-03-22T12:00:00.000Z,2020-03-15T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,16
+2020-03-17T12:00:00.000Z,2020-03-14T12:00:00.000Z,Female,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,17
+2020-03-23T12:00:00.000Z,2020-03-15T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,18
+2020-03-23T12:00:00.000Z,2020-03-17T12:00:00.000Z,Female,20-29,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,19
+2020-03-24T12:00:00.000Z,2020-03-17T12:00:00.000Z,Female,40-49,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,,Local,20
+2020-03-24T12:00:00.000Z,2020-03-18T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,21
+2020-03-24T12:00:00.000Z,2020-03-05T12:00:00.000Z,Female,70-79,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,,Travel,22
+2020-03-25T12:00:00.000Z,2020-03-18T12:00:00.000Z,Female,20-29,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Local,23
+2020-03-24T12:00:00.000Z,2020-03-12T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Travel,24
+2020-03-25T12:00:00.000Z,2020-03-14T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,Y,N,Local,25
+2020-03-25T12:00:00.000Z,2020-03-18T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,26
+2020-03-25T12:00:00.000Z,2020-03-22T12:00:00.000Z,Female,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,27
+2020-03-25T12:00:00.000Z,2020-03-25T12:00:00.000Z,Female,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,Y,Local,28
+2020-03-25T12:00:00.000Z,2020-03-22T12:00:00.000Z,Female,10-19,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,29
+2020-03-21T12:00:00.000Z,2020-03-18T12:00:00.000Z,Female,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,,Local,30
+2020-03-25T12:00:00.000Z,2020-03-19T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Unknown,31
+2020-03-22T12:00:00.000Z,2020-03-17T12:00:00.000Z,Female,20-29,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,Y,N,Local,32
+2020-03-23T12:00:00.000Z,2020-03-19T12:00:00.000Z,Female,60-69,Alaska,AK,Juneau City and Borough,110,Southeast,5,N,N,Local,33
+2020-03-26T12:00:00.000Z,2020-03-16T12:00:00.000Z,Female,20-29,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,N,Local,34
+2020-03-26T12:00:00.000Z,2020-03-16T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,35
+2020-03-25T12:00:00.000Z,2020-03-03T12:00:00.000Z,Female,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Unknown,36
+2020-03-26T12:00:00.000Z,2020-03-16T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,37
+2020-03-28T12:00:00.000Z,2020-03-04T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,38
+2020-03-27T12:00:00.000Z,2020-03-27T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,39
+2020-03-27T12:00:00.000Z,2020-03-22T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,40
+2020-03-27T12:00:00.000Z,2020-03-22T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,41
+2020-03-27T12:00:00.000Z,2020-03-24T12:00:00.000Z,Female,70-79,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,Y,,Local,42
+2020-03-28T12:00:00.000Z,2020-03-20T12:00:00.000Z,Female,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,43
+2020-03-28T12:00:00.000Z,2020-03-20T12:00:00.000Z,Female,10-19,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,44
+2020-03-27T12:00:00.000Z,2020-03-27T12:00:00.000Z,Female,80+,Alaska,AK,Yukon-Koyukuk Census Area,290,Interior,6,,,Unknown,45
+2020-03-28T12:00:00.000Z,2020-03-20T12:00:00.000Z,Female,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,46
+2020-03-28T12:00:00.000Z,2020-03-10T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Unknown,47
+2020-03-27T12:00:00.000Z,2020-03-21T12:00:00.000Z,Female,60-69,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Local,48
+2020-03-28T12:00:00.000Z,2020-03-16T12:00:00.000Z,Female,20-29,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Travel,49
+2020-03-28T12:00:00.000Z,2020-03-20T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,50
+2020-03-27T12:00:00.000Z,2020-03-21T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,51
+2020-03-28T12:00:00.000Z,2020-03-28T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,52
+2020-03-27T12:00:00.000Z,2020-03-22T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,53
+2020-03-28T12:00:00.000Z,2020-03-21T12:00:00.000Z,Female,10-19,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,54
+2020-03-24T12:00:00.000Z,2020-03-18T12:00:00.000Z,Male,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,,Local,55
+2020-03-25T12:00:00.000Z,2020-03-23T12:00:00.000Z,Male,20-29,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Travel,56
+2020-03-27T12:00:00.000Z,2020-03-27T12:00:00.000Z,Female,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,57
+2020-03-25T12:00:00.000Z,2020-03-10T12:00:00.000Z,Male,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,58
+2020-03-29T12:00:00.000Z,2020-03-29T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,59
+2020-03-25T12:00:00.000Z,2020-03-14T12:00:00.000Z,Male,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Unknown,60
+2020-03-29T12:00:00.000Z,2020-03-21T12:00:00.000Z,Female,20-29,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,61
+2020-03-25T12:00:00.000Z,2020-03-19T12:00:00.000Z,Male,40-49,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,N,N,Travel,62
+2020-03-29T12:00:00.000Z,2020-03-10T12:00:00.000Z,Female,60-69,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Local,63
+2020-03-25T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,64
+2020-03-29T12:00:00.000Z,2020-03-29T12:00:00.000Z,Female,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,Y,,Unknown,65
+2020-03-25T12:00:00.000Z,2020-03-18T12:00:00.000Z,Male,70-79,Alaska,AK,Anchorage Municipality,20,Anchorage,7,Y,Y,Local,66
+2020-03-29T12:00:00.000Z,2020-03-21T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Unknown,67
+2020-03-20T12:00:00.000Z,2020-03-16T12:00:00.000Z,Male,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Travel,68
+2020-03-30T12:00:00.000Z,2020-03-21T12:00:00.000Z,Female,40-49,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Travel,69
+2020-03-26T12:00:00.000Z,2020-03-21T12:00:00.000Z,Male,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,70
+2020-03-30T12:00:00.000Z,2020-03-18T12:00:00.000Z,Female,40-49,Alaska,AK,Matanuska-Susitna Borough,170,Matanuska-Susitna,3,N,,Unknown,71
+2020-03-26T12:00:00.000Z,2020-03-26T12:00:00.000Z,Male,<10,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Local,72
+2020-03-30T12:00:00.000Z,2020-03-30T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,73
+2020-03-26T12:00:00.000Z,2020-03-13T12:00:00.000Z,Male,70-79,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,Y,N,Local,74
+2020-03-30T12:00:00.000Z,2020-03-30T12:00:00.000Z,Female,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Unknown,75
+2020-03-26T12:00:00.000Z,2020-03-15T12:00:00.000Z,Male,60-69,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Travel,76
+2020-03-31T12:00:00.000Z,2020-03-23T12:00:00.000Z,Female,50-59,Alaska,AK,Juneau City and Borough,110,Southeast,5,Y,,Local,77
+2020-03-27T12:00:00.000Z,2020-03-27T12:00:00.000Z,Male,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Local,78
+2020-03-31T12:00:00.000Z,2020-03-24T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Travel,79
+2020-03-28T12:00:00.000Z,2020-03-22T12:00:00.000Z,Male,70-79,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,Y,,Travel,80
+2020-03-31T12:00:00.000Z,2020-03-26T12:00:00.000Z,Female,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,81
+2020-03-28T12:00:00.000Z,2020-03-24T12:00:00.000Z,Male,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Local,82
+2020-03-31T12:00:00.000Z,2020-03-31T12:00:00.000Z,Female,20-29,Alaska,AK,Juneau City and Borough,110,Southeast,5,,,Local,83
+2020-03-28T12:00:00.000Z,2020-03-23T12:00:00.000Z,Male,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,84
+2020-03-30T12:00:00.000Z,2020-03-16T12:00:00.000Z,Female,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,85
+2020-03-27T12:00:00.000Z,2020-03-10T12:00:00.000Z,Male,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Unknown,86
+2020-04-01T12:00:00.000Z,2020-04-01T12:00:00.000Z,Female,20-29,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Unknown,87
+2020-03-28T12:00:00.000Z,2020-03-25T12:00:00.000Z,Female,70-79,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,Y,N,Local,88
+2020-04-01T12:00:00.000Z,2020-03-28T12:00:00.000Z,Female,40-49,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,N,Local,89
+2020-04-01T12:00:00.000Z,2020-04-01T12:00:00.000Z,Female,40-49,Alaska,AK,Juneau City and Borough,110,Southeast,5,,,Unknown,90
+2020-04-01T12:00:00.000Z,2020-03-29T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,91
+2020-03-31T12:00:00.000Z,2020-03-31T12:00:00.000Z,Female,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Unknown,92
+2020-03-31T12:00:00.000Z,2020-03-25T12:00:00.000Z,Female,80+,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Local,93
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,94
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,95
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Female,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,96
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Female,40-49,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,,,Unknown,97
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Female,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,98
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Female,20-29,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,,,Unknown,99
+2020-03-18T12:00:00.000Z,2020-03-07T12:00:00.000Z,Male,70-79,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,100
+2020-03-17T12:00:00.000Z,2020-03-14T12:00:00.000Z,Male,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,,,Travel,101
+2020-03-16T12:00:00.000Z,2020-03-13T12:00:00.000Z,Male,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Travel,102
+2020-03-16T12:00:00.000Z,2020-03-12T12:00:00.000Z,Male,60-69,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Travel,103
+2020-03-18T12:00:00.000Z,2020-03-15T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,104
+2020-03-28T12:00:00.000Z,2020-03-16T12:00:00.000Z,Male,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,105
+2020-03-24T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,106
+2020-03-21T12:00:00.000Z,2020-03-10T12:00:00.000Z,Male,60-69,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,N,N,Travel,107
+2020-03-17T12:00:00.000Z,2020-03-16T12:00:00.000Z,Male,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,,,Local,108
+2020-03-21T12:00:00.000Z,2020-03-16T12:00:00.000Z,Male,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,Y,N,Local,109
+2020-03-21T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,50-59,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,,,Local,110
+2020-03-19T12:00:00.000Z,2020-03-08T12:00:00.000Z,Male,70-79,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Travel,111
+2020-03-16T12:00:00.000Z,2020-03-16T12:00:00.000Z,Male,70-79,Alaska,AK,Petersburg Borough,195,Southeast,5,Y,Y,Travel,112
+2020-03-22T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,40-49,Alaska,AK,Matanuska-Susitna Borough,170,Matanuska-Susitna,3,N,N,Travel,113
+2020-03-22T12:00:00.000Z,2020-03-10T12:00:00.000Z,Male,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,114
+2020-03-22T12:00:00.000Z,2020-03-19T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Local,115
+2020-03-22T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,60-69,Alaska,AK,Matanuska-Susitna Borough,170,Matanuska-Susitna,3,N,,Local,116
+2020-03-22T12:00:00.000Z,2020-03-18T12:00:00.000Z,Male,60-69,Alaska,AK,Juneau City and Borough,110,Southeast,5,N,,Local,117
+2020-03-23T12:00:00.000Z,2020-03-19T12:00:00.000Z,Male,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,118
+2020-03-21T12:00:00.000Z,2020-03-10T12:00:00.000Z,Male,60-69,Alaska,AK,Juneau City and Borough,110,Southeast,5,Y,N,Travel,119
+2020-03-22T12:00:00.000Z,2020-03-18T12:00:00.000Z,Male,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,120
+2020-03-22T12:00:00.000Z,2020-03-18T12:00:00.000Z,Male,20-29,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,121
+2020-03-12T12:00:00.000Z,2020-03-13T12:00:00.000Z,Male,60-69,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,,N,Local,122
+2020-03-24T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,123
+2020-03-28T12:00:00.000Z,2020-03-19T12:00:00.000Z,Male,40-49,Alaska,AK,Ketchikan Gateway Borough,130,Southeast,5,N,,Local,124
+2020-03-28T12:00:00.000Z,2020-03-22T12:00:00.000Z,Male,70-79,Alaska,AK,Anchorage Municipality,20,Anchorage,7,Y,N,Travel,125
+2020-03-28T12:00:00.000Z,2020-03-18T12:00:00.000Z,Male,20-29,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,N,N,Local,126
+2020-03-27T12:00:00.000Z,2020-03-24T12:00:00.000Z,Male,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Local,127
+2020-03-28T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,10-19,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Local,128
+2020-03-27T12:00:00.000Z,2020-03-22T12:00:00.000Z,Male,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,,Travel,129
+2020-03-27T12:00:00.000Z,2020-03-15T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Unknown,130
+2020-03-27T12:00:00.000Z,2020-03-27T12:00:00.000Z,Male,<10,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,131
+2020-03-27T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,20-29,Alaska,AK,Juneau City and Borough,110,Southeast,5,Y,,Local,132
+2020-03-28T12:00:00.000Z,2020-03-20T12:00:00.000Z,Male,50-59,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,133
+2020-03-27T12:00:00.000Z,2020-03-27T12:00:00.000Z,Male,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Unknown,134
+2020-03-29T12:00:00.000Z,2020-03-29T12:00:00.000Z,Male,20-29,Alaska,AK,Juneau City and Borough,110,Southeast,5,,,Unknown,135
+2020-03-29T12:00:00.000Z,2020-03-14T12:00:00.000Z,Male,60-69,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,136
+2020-03-26T12:00:00.000Z,2020-03-25T12:00:00.000Z,Male,70-79,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,137
+2020-03-30T12:00:00.000Z,2020-03-30T12:00:00.000Z,Male,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,138
+2020-03-30T12:00:00.000Z,2020-03-24T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Travel,139
+2020-03-30T12:00:00.000Z,2020-03-23T12:00:00.000Z,Male,60-69,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,140
+2020-03-31T12:00:00.000Z,2020-03-11T12:00:00.000Z,Male,50-59,Alaska,AK,Juneau City and Borough,110,Southeast,5,Y,,Local,141
+2020-03-31T12:00:00.000Z,2020-03-24T12:00:00.000Z,Male,40-49,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Unknown,142
+2020-03-31T12:00:00.000Z,2020-03-17T12:00:00.000Z,Male,30-39,Alaska,AK,Kenai Peninsula Borough,122,Gulf Coast,4,N,N,Unknown,143
+2020-03-30T12:00:00.000Z,2020-03-13T12:00:00.000Z,Male,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Local,144
+2020-03-31T12:00:00.000Z,2020-03-21T12:00:00.000Z,Male,20-29,Alaska,AK,Juneau City and Borough,110,Southeast,5,,,Local,145
+2020-03-31T12:00:00.000Z,2020-03-25T12:00:00.000Z,Male,40-49,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Local,146
+2020-03-26T12:00:00.000Z,2020-03-23T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,N,N,Local,147
+2020-03-31T12:00:00.000Z,2020-03-31T12:00:00.000Z,Male,70-79,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,148
+2020-03-31T12:00:00.000Z,2020-03-27T12:00:00.000Z,Male,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,,Local,149
+2020-04-01T12:00:00.000Z,2020-03-23T12:00:00.000Z,Male,30-39,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,N,N,Local,150
+2020-04-01T12:00:00.000Z,2020-04-01T12:00:00.000Z,Male,50-59,Alaska,AK,Fairbanks North Star Borough,90,Interior,6,,,Unknown,151
+2020-04-01T12:00:00.000Z,2020-04-01T12:00:00.000Z,Male,40-49,Alaska,AK,Matanuska-Susitna Borough,170,Matanuska-Susitna,3,,,Unknown,152
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,153
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Male,60-69,Alaska,AK,Juneau City and Borough,110,Southeast,5,,,Unknown,154
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Male,30-39,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,155
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Male,40-49,Alaska,AK,Southeast Fairbanks Census Area,240,Interior,6,,,Unknown,156
+2020-04-02T12:00:00.000Z,2020-04-02T12:00:00.000Z,Male,10-19,Alaska,AK,Anchorage Municipality,20,Anchorage,7,,,Unknown,157
